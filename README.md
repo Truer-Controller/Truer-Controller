@@ -1,9 +1,9 @@
-### Olá! Meu nome é Rafael Augusto🐱‍👓
+### やあ！私の名前はラファエル・アウグストです。GitHubのプロフィールへようこそ。お役に立てば幸いです。🐱‍👓
+### Oi! Meu nome é Rafael Augusto. Bem-vindo ao seu perfil do GitHub. Espero poder te ajudar no que encontra. :space_invader:
 
 - 🔭 Estudante de engenharia da computação foco em me tornar um programador full-stack
-- 🌱 Estudando Csharp e Javascript
-- 📫 Contate-me no email: rafajunior2907@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando nesse momento Csharp, Html e Css.
+- 📫 Email para contato: rafajunior2907@gmail.com
 
 <div>
     <a href="https://github.com/Truer-Controller">
