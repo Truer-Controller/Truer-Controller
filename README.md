@@ -2,13 +2,13 @@
 ### Oi! Meu nome é Rafael Augusto. Bem-vindo ao seu perfil do GitHub. Espero que encontre aquilo que está procurando. :space_invader:
 
 - 🔭 Estudante de engenharia da computação foco em me tornar um programador full-stack
-- 🌱 Estudando nesse momento Csharp, Html e Css.
+- 🌱 Estudando nesse momento Csharp, Javascript, Html e Css.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
 <div>
     <a href="https://github.com/Truer-Controller">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
