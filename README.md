@@ -11,6 +11,10 @@
     <img  width="40%" height="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
+ ---
+ 
+ #### Conhecimentos
+ 
 <div style="display: inline_block"><br>
     <img align="center" alt="Junior-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Junior-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -22,7 +26,9 @@
     <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
 </div> 
   
- ##
+ <br>
+ 
+ ---
     
 <div>
     <a href="https://www.linkedin.com/in/rafael-macedo-2ab80014b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
