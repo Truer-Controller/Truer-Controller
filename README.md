@@ -5,7 +5,7 @@
 - 🌱 Estudando nesse momento Csharp, Javascript, Html e Css.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
-<div>
+ <div align="center" text="center">
     <a href="https://github.com/Truer-Controller">
     <img  width="50%" height="600px" src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img  width="40%" height="700px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&langs_count=16&theme=midnight-purple"/>
