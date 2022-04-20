@@ -2,7 +2,7 @@
 ### Oi! Meu nome é Rafael Augusto. Bem-vindo ao seu perfil do GitHub. Espero que encontre aquilo que está procurando. :space_invader:
 
 - 🔭 Estudante de engenharia da computação foco em me tornar um programador full-stack
-- 🌱 Estudando nesse momento Csharp, Javascript, Html e Css.
+- 🌱 Estudando nesse momento PhP, Javascript, Html e Css.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
  <div align="center" text="center">
@@ -22,10 +22,12 @@
     <img align="center" alt="Junior-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Junior-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Junior-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Junior-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Junior-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Junior-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Junior-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img align="center" alt="Junior-SQLMy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
 
 </div> 
