@@ -1,5 +1,5 @@
-### やあ！私の名前はラファエル・アウグストです。GitHubのプロフィールへようこそ。お役に立てば幸いです。🐱‍👓
-### Oi! Meu nome é Rafael Augusto. Bem-vindo ao seu perfil do GitHub. Espero que encontre aquilo que está procurando. :space_invader:
+### こんにちは！私の名前はラファエルです。私は開発者であり、この道を歩むすべての人を助けることを目指しています。🐱‍👓
+### Linguagens não morrem mas sim seus programadores. :space_invader:
 
 - 🔭 Estudante de engenharia da computação foco em me tornar um programador full-stack
 - 🌱 Estudando nesse momento PhP, Javascript, Html e Css.
