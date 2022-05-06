@@ -59,6 +59,5 @@
     
 </div>
  
- <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
-
+ 
 ![Snake animation](https://github.com/Truer-Controller/Truer-Controller/blob/output/github-contribution-grid-snake.svg)
