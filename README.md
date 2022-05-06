@@ -56,8 +56,9 @@
     <a href="rafajunior2907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://gitlab.com/Rafael.Junior" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/18863610/truer" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-    <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
- 
+    
 </div>
+ 
+ <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
 
 ![Snake animation](https://github.com/Truer-Controller/Truer-Controller/blob/output/github-contribution-grid-snake.svg)
