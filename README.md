@@ -2,7 +2,7 @@
 ### Linguagens não morrem, mas sim seu programadores. :space_invader:
 
 - 🔭 Em constante desenvolvimento, para levar aqueles que caminham ao meu lado, para um futuro brilhante!
-- 🌱 No momento estudando as linguagens de programação, JavaScript, Laravel, React e CSharp.
+- 🌱 No momento estudando as ferramentas, JavaScript, Laravel, React e CSharp.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
  <div align="center" text="center">
