@@ -1,7 +1,7 @@
 ### こんにちは！私の名前はラファエルです。私は開発者であり、この道を歩むすべての人を助けることを目指しています。🐱‍👓
 ### Linguagens não morrem, mas sim seu programadores. :space_invader:
 
-- 🔭 Em constante desenvolvimento para levar aqueles que caminham ao meu lado para um futuro brilhante!
+- 🔭 Em constante desenvolvimento, para levar aqueles que caminham ao meu lado, para um futuro brilhante!
 - 🌱 No momento estudando as linguagens de programação, JavaScript, Laravel, React e CSharp.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
