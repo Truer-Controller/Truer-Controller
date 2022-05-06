@@ -43,19 +43,20 @@
    <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Junior-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="Junior-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
+   
   
  </div>
  
  <br>
     
-<div>
+ <div style="display: inline_block"><br>
  
     <a href="https://www.linkedin.com/in/rafael-macedo-2ab80014b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/rafael.maistarde/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="rafajunior2907@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://gitlab.com/Rafael.Junior" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/18863610/truer" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+    <img align="right" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/f6/4e/d6/f64ed60baa966e710ad4dec702e9acf6.gif" />
  
 </div>
 
