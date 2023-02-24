@@ -60,6 +60,9 @@
  
  <br>
  
+ <div flex flex-box justify-center>
  <img align="center" alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/86/e3/ef/86e3ef2fa76864edc307bcbe31cb4a4a.gif" />
+ </div>
+ 
  
 ![Snake animation](https://github.com/Truer-Controller/Truer-Controller/blob/output/github-contribution-grid-snake.svg)
