@@ -1,5 +1,5 @@
 <div aling="center">
- <img width="100%" height="250px" src="https://i.imgur.com/PGi41ep.gif">
+ <img width="100%" height="300px" src="https://i.imgur.com/PGi41ep.gif">
 </div>
 
 ### こんにちは！私の名前はラファエルです。私は開発者であり、この道を歩むすべての人を助けることを目指しています。🐱‍👓
