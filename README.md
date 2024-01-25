@@ -10,7 +10,7 @@
 - 📫 E-mail para contato: rafajunior2907@gmail.com
 - 📱  Numero para contato: +55 (15) 99772-8919
 
- <div aling="center">
+ <div style="text-align: center">
     <a href="https://github.com/Truer-Controller">
     <img  src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img  width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&langs_count=16&theme=midnight-purple"/>
