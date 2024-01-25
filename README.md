@@ -6,7 +6,7 @@
 ### Linguagens não morrem, mas sim seus programadores. :space_invader:
 
 - 🔭 Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz.
-- 🌱 No momento estudando as ferramentas do mercado JavaScript, Laravel, React.
+- 🌱 Em busca do constante aperfeiçoamento.
 - 📫 Email para contato: rafajunior2907@gmail.com
 
  <div align="center" text="center">
@@ -33,23 +33,18 @@
  ## 💻 <kbd>Front-end:</kbd>
  
  <div style="display: inline_block"><br>
-   
    <img align="center" alt="Junior-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="Junior-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Junior-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Junior-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
  </div>
  
  ## 🛠 <kbd>Other Languages and Tools: </kbd><br>
  
  <div style="display: inline_block"><br>
-  
    <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Junior-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="Junior-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   
-  
  </div>
  
  <br>
@@ -64,7 +59,7 @@
  
  <br>
  <div flex flex-box justify-center>
- <img alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/86/e3/ef/86e3ef2fa76864edc307bcbe31cb4a4a.gif" />
+    <img alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/86/e3/ef/86e3ef2fa76864edc307bcbe31cb4a4a.gif" />
  </div>
  
 ![Snake animation](https://github.com/Truer-Controller/Truer-Controller/blob/output/github-contribution-grid-snake.svg)
