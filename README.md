@@ -59,7 +59,7 @@
 </div>
  
  <br>
- <div>
+ <div align="center">
     <img alt="Junior-Solo" height="200" src="https://i.pinimg.com/originals/86/e3/ef/86e3ef2fa76864edc307bcbe31cb4a4a.gif" />
  </div>
  
