@@ -5,9 +5,9 @@
 ### こんにちは！私の名前はラファエルです。私は開発者であり、この道を歩むすべての人を助けることを目指しています。🐱‍👓
 ### Linguagens não morrem, mas sim seus programadores. :space_invader:
 
-- 🔭 Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz.
+- 🔭 Tente uma, duas, três vezes e, se possível, tente a quarta, a quinta e quantas vezes forem necessárias. Não desista nas primeiras tentativas, pois a persistência é amiga da conquista. Se você quer chegar onde a maioria não chega, faça o que a maioria não faz.
 - 🌱 Em busca do constante aperfeiçoamento.
-- 📫 Email para contato: rafajunior2907@gmail.com
+- 📫 E-mail para contato: rafajunior2907@gmail.com
 - 📱  Numero para contato: +55 (15) 99772-8919
 
  <div align="center" text="center">
