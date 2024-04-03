@@ -1,5 +1,5 @@
 <div aling="center">
- <img width="100%" height="300px" src="./i-have-no-enemies-vinland-saga.gif">
+ <img width="100%" height="400px" src="./i-have-no-enemies-vinland-saga.gif">
 </div>
 
 ### こんにちは！私の名前はラファエルです。私は開発者であり、この道を歩むすべての人を助けることを目指しています。🐱‍👓
