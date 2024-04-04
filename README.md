@@ -6,7 +6,8 @@
 ### Linguagens não morrem, mas sim seus programadores. :space_invader:
 
 - 🔭 Tente uma, duas, três vezes e, se possível, tente a quarta, a quinta e quantas vezes forem necessárias. Não desista nas primeiras tentativas, pois a persistência é amiga da conquista. Se você quer chegar onde a maioria não chega, faça o que a maioria não faz.
-- 🌱 Em busca do constante aperfeiçoamento.
+- 🙏 Ouvistes que foi dito: Amarás ao teu próximo, e odiarás ao teu inimigo.
+     Eu, porém, vos digo: Amai aos vossos inimigos, e orai pelos que vos perseguem;
 - 📫 E-mail para contato: rafajunior2907@gmail.com
 - 📱  Numero para contato: +55 (15) 99772-8919
 
