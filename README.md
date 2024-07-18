@@ -10,7 +10,8 @@
      Eu, porém, vos digo: Amai aos vossos inimigos, e orai pelos que vos perseguem;
 - 📫 E-mail: rafajunior2907@gmail.com
 - 📱  Numero: +55 (15) 99772-8919
-
+- 💻 Desistir é a única maneira segura de falhar. (Gena Showalter)
+  
  <div style="text-align: center">
     <a href="https://github.com/Truer-Controller">
     <img  src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
