@@ -41,6 +41,12 @@
    <img align="center" alt="Junior-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Junior-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
  </div>
+
+ ## 📱 <kbd>Mobile:</kbd>
+ 
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Junior-SQLMy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
+ </div>
  
  ## 🛠 <kbd>Other Languages and Tools: </kbd><br>
  
