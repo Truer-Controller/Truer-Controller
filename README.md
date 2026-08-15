@@ -1,4 +1,4 @@
-# Rafael Augusto
+# Rafael Augusto Lopez Macedo
 
 ### Software Engineer | Full Stack .NET
 
