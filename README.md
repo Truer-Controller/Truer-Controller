@@ -135,12 +135,12 @@ Meu objetivo profissional é evoluir cada vez mais em **Arquitetura de Software 
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=Truer-Controller&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truer-Controller&layout=compact&hide_border=true&theme=transparent&langs_count=8"
 />
 
 </div>
@@ -150,7 +150,7 @@ Meu objetivo profissional é evoluir cada vez mais em **Arquitetura de Software 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Truer-Controller&theme=transparent&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Truer-Controller&theme=transparent&hide_border=true"
   alt="GitHub Streak"
 />
 
