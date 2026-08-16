@@ -133,7 +133,7 @@ Meu objetivo profissional é evoluir cada vez mais em **Arquitetura de Software 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Truer-Controller&theme=dark&hide_border=true&locale=pt_BR&timezone=UTC-3&short_numbers=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Truer-Controller)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
